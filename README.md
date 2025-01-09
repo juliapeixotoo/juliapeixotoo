@@ -1,4 +1,3 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/f8d27892-c981-4695-a7a7-deef74c201a2)
 
 ## Saudações, eu sou a Julia Peixoto 🖖
 
