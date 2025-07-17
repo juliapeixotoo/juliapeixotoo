@@ -7,7 +7,7 @@
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https:https://synonymous-dolphin-b36.notion.site/Sauda-es-ed8dc9599a824f2c8d8fe008b6be1a99)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliapeixoto.dev@gmail.com)
 
-## Tecnologias
+## Technologies
 <div style="display:inline-block;"> <br/>
   <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
