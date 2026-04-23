@@ -9,9 +9,7 @@
 ## Technologies
 <div style="display:inline-block;"> <br/>
 
-  <img align="center" alt="Salesforce Admin" src="https://img.shields.io/badge/Salesforce%20Admin-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-
-  <img align="center" alt="Apex" src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img align="center" alt="Salesforce " src="https://img.shields.io/badge/Salesforce%20Admin-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   
   <img align="center" alt="Data Analytics" src="https://img.shields.io/badge/Data%20Analytics-4CAF50?style=for-the-badge&logo=google-analytics&logoColor=white" />
   
